@@ -227,43 +227,11 @@ And it's copying 0x600 bytes which tells us that there is a buffer overflow lett
 ```
 POST /index.php HTTP/1.1
 Host: phpshop.challenges.hackfest.tn
-Content-Length: 12
-Cache-Control: max-age=0
-Upgrade-Insecure-Requests: 1
-Origin: http://phpshop.challenges.hackfest.tn
-Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Referer: http://phpshop.challenges.hackfest.tn/index.php
-Accept-Encoding: gzip, deflate
-Accept-Language: en-US,en;q=0.9
-Cookie: PHPSESSID=0kinhc60mgkc5suus0lnf7q3to
-Connection: close
-
-product=POST /index.php HTTP/1.1
-Host: phpshop.challenges.hackfest.tn
 Content-Length: 17
 Cache-Control: max-age=0
 Upgrade-Insecure-Requests: 1
 Origin: http://phpshop.challenges.hackfest.tn
 Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Referer: http://phpshop.challenges.hackfest.tn/index.php
-Accept-Encoding: gzip, deflate
-Accept-Language: en-US,en;q=0.9
-Cookie: PHPSESSID=0kinhc60mgkc5suus0lnf7q3to
-Connection: close
-
-product=POST /index.php HTTP/1.1
-Host: phpshop.challenges.hackfest.tn
-Content-Length: 17
-Cache-Control: max-age=0
-Upgrade-Insecure-Requests: 1
-Origin: http://phpshop.challenges.hackfest.tn
-Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
 Referer: http://phpshop.challenges.hackfest.tn/index.php
 Accept-Encoding: gzip, deflate
 Accept-Language: en-US,en;q=0.9
