@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This weekend, I was chilling at my friends house scrolling twitter until I encountered this Intigriti challenge. It's been a long time since I played one and I've got the CTF fever so I couldn't ignore the challenge. I took his computer and started working on the challenge right away :rofl:. This is the writeup for Intigriti's August XSS challenge, a great challenge made by the great <a href="https://twitter.com/aszx87410" target="_blank" style="font-weight: bold; color: red;">huli</a>.
+This weekend, I was chilling at my friends (shout out to him <a href="https://twitter.com/MoatezSlimen" target="_blank">Moatez Ben Slimen</a> house scrolling twitter until I encountered this Intigriti challenge. It's been a long time since I played one and I've got the CTF fever so I couldn't ignore the challenge. I took his computer and started working on the challenge right away :rofl:. This is the writeup for Intigriti's August XSS challenge, a great challenge made by the great <a href="https://twitter.com/aszx87410" target="_blank" style="font-weight: bold; color: red;">huli</a>.
 
 ## Overview
 
