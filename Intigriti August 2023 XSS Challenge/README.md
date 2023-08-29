@@ -1,3 +1,5 @@
+![Challenge Banner](./imgs/intigriti_challenge_banner.jpeg)
+
 <div style="text-align: center;"><h1>Intigriti's August XSS challenge 0823<br>By <a href="https://twitter.com/aszx87410" target="_blank" style="color: red;">huli</a></h1></div>
 
 
